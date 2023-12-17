@@ -1,0 +1,24 @@
+/* style.css */
+
+.container {
+  display: flex;
+}
+
+.box-container {
+  width: 200px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.first-box-container {
+  background-color: red;
+}
+
+.second-box-container {
+  background-color: yellow;
+}
+
+.third-box-container {
+  background-color: green;
+}
+  
