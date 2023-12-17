@@ -8,17 +8,19 @@
   width: 200px;
   height: 100px;
   margin-right: 10px;
-}
+  border-width: 15px;
+  border-style: solid; }
+
 
 .first-box-container {
   background-color: red;
-}
+  border-color: green;}
 
 .second-box-container {
   background-color: yellow;
-}
+  border-color: red;}
 
 .third-box-container {
   background-color: green;
-}
+  border-color: yellow}
   
